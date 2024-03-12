@@ -2,6 +2,10 @@ import Msg from "./Msg";
 import Vasu from "./Vasu";
 import Achu from "./Achu";
 import Psa from "./Psa";
+import M from "./M";
+import Message from "./Message"
+import Onclick from "./Onclick";
+import Text from "./Text";
 
 
 function App() {
@@ -11,7 +15,12 @@ function App() {
       {/* <Vasu/> */}
       {/* <Msg/> */}
       {/* <Achu/> */}
-      <Psa/>
+      {/* <Psa/>/ */}
+      {/* <M/> */}
+      {/* <z/> */}
+      {/* <Message/> */}
+      {/* <Onclick/> */}
+      <Text/>
     </div>
   );
 }
